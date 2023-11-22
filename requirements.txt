@@ -1,3 +1,6 @@
+python==3.9.6
+
 opencv-python-headless
-streamlit
+streamlit==1.14.0
 opencv-python==4.5.2.54
+
